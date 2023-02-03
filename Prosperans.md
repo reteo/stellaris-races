@@ -41,7 +41,7 @@ cooperation.
 -   **Species:** 
     -   **Name:** Prosperan
     -   **Plural:** Prosperans
-    -   **Adjective:** Prosp
+    -   **Adjective:** Prosperan
 -   **Traits:**
     -   Thrifty
     -   Charismatic
