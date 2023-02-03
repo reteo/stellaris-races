@@ -38,10 +38,12 @@ cooperation.
 ## Race Design
 
 -   **Appearance:** Humanoid
--   **Species:** -   **Name:** Prosperan
+-   **Species:** 
+    -   **Name:** Prosperan
     -   **Plural:** Prosperans
     -   **Adjective:** Prosp
--   **Traits:** -   Thrifty
+-   **Traits:**
+    -   Thrifty
     -   Charismatic
     -   Fleeting
     -   Wasteful
@@ -49,10 +51,12 @@ cooperation.
     -   **Name:** Prospero
     -   **Star Name:** Comersia
 -   **Origin:** Prosperous Unification
--   **Government:** -   **Ethics:** Pacifist, Materialist, Egalitarian
+-   **Government:** 
+    -   **Ethics:** Pacifist, Materialist, Egalitarian
     -   **Authority:** Corporate
     -   **Civics:** Free Traders, Trading Posts
--   **Empire:** -   **Name:** Prosperan Trade Association
+-   **Empire:** 
+    -   **Name:** Prosperan Trade Association
     -   **Ruler:** Chairwoman Thalotha
 
 
